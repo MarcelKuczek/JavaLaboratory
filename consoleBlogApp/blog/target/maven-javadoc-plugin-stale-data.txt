@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/marce/OneDrive/Pulpit/Studia/5_semestr/Java/blog/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/marce/OneDrive/Pulpit/Studia/5_semestr/Java/blog/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'blog 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'blog 1.0-SNAPSHOT API'
+blog.controller
+blog
+blog.model
+blog.view
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\src\main\java = 1728554450304
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\allclasses-index.html = 1729157884889
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\allpackages-index.html = 1729157884891
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\element-list = 1729157884819
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\help-doc.html = 1729157884910
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\index-all.html = 1729157884904
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\index.html = 1729157884881
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\member-search-index.js = 1729157884894
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\module-search-index.js = 1729157884892
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\overview-summary.html = 1729157884907
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\overview-tree.html = 1729157884878
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\package-search-index.js = 1729157884892
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\search.html = 1729157884906
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\serialized-form.html = 1729157884848
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\tag-search-index.js = 1729157884895
+C:\Users\marce\OneDrive\Pulpit\Studia\5_semestr\Java\blog\target\reports\apidocs\type-search-index.js = 1729157884893

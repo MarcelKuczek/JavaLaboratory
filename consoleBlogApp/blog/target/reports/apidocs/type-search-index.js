@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"blog","l":"Main"},{"p":"blog.view","l":"MenuView"},{"p":"blog.model","l":"Post"},{"p":"blog.controller","l":"PostController"},{"p":"blog.model","l":"PostNotFoundException"},{"p":"blog.model","l":"PostRepository"},{"p":"blog.view","l":"PostView"}];updateSearchResults();
